@@ -16,5 +16,5 @@ npm install
 npm run dev
 ```
 
-You can view the build project [here]('https://fanzee-test.vercel.app/') 
+You can view the built project [here](https://fanzee-test.vercel.app/) 
 
