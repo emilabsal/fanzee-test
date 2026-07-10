@@ -1,20 +1,34 @@
-# Fanzee Test Project
+# fanzee-test
 
-The project was created using the following technologies:
-- framework: `nuxt 3` 
-- language: `typescript`
-- styles: `scss`
-- data stored in `/public/api` folder and the `useFetch()` composable is used for API requests 
+Тестовый Nuxt-проект с адаптивным frontend-интерфейсом и локальными mock-данными.
 
-## Start project
+## Демо
+
+[Открыть проект](https://fanzee-test.vercel.app)
+
+## Стек
+
+- Vue
+- JavaScript / TypeScript
+- HTML
+- CSS / SCSS
+
+## Что показывает проект
+
+- Практическую frontend-разработку
+- Работу со структурой проекта и компонентным подходом
+- Подготовку к локальному запуску и дальнейшему развитию
+
+## Запуск
 
 ```bash
-# install dependencies
 npm install
-
-# start the development server
 npm run dev
 ```
 
-You can view the built project [here](https://fanzee-test.vercel.app/) 
+Если в проекте используется другой пакетный менеджер или скрипты отличаются, проверьте `package.json`.
 
+## Репозиторий
+
+- GitHub: [emilabsal/fanzee-test](https://github.com/emilabsal/fanzee-test)
+- Основная ветка: `main`
